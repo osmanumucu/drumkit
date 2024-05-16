@@ -17,15 +17,24 @@ footer {
 }
 
 .w {
-  background-image: url(images/tom1.png);
+  background-image: url(https://i.scdn.co/image/ab6761610000e5eb4f5e48c7e3b979fa56de1403);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .a {
-  background-image: url(images/tom2.png);
+  background-image: url(https://cdns-images.dzcdn.net/images/artist/e2f90f2f5ff19404cb530422c42b53ab/500x500.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .s {
-  background-image: url(images/tom3.png);
+  background-image: url(https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Ankaral%C4%B1_Nam%C4%B1k.jpg/640px-Ankaral%C4%B1_Nam%C4%B1k.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .d {
