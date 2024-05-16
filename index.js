@@ -6,7 +6,7 @@ for (var i = 0; i < document.querySelectorAll(".drum").length; i++) {
         
         switch (buttonInnerHTML) {
             case "w":
-                var audio = new Audio('sounds/tom-1.mp3');
+                var audio = new Audio('sounds/videoplayback.mp3');
                 audio.play();  
             break;
 
