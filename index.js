@@ -1,8 +1,12 @@
 for (var i = 0; i < document.querySelectorAll(".drum").length; i++) {
-    document.querySelectorAll(".drum")[i].addEventListener("click", playSound);
+
+    document.querySelectorAll(".drum")[i].addEventListener("click", function() {
+
+        this.style.color = "white"
+
+    });
 }
 
-function playSound() {
-    alert("Hi");
-}
 
+//var audio = new Audio('sounds/tom-1.mp3');
+//audio.play();  
