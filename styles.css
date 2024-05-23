@@ -8,7 +8,6 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
@@ -38,19 +37,31 @@ footer {
 }
 
 .d {
-  background-image: url(images/tom4.png);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU7m459KCJ8qr2V0oMofbQYE-y5UYXBoi1niAkSblpOA&s);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .j {
-  background-image: url(images/crash.png);
+  background-image: url(https://pbs.twimg.com/profile_images/573136396510236672/ISGswhKH_400x400.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .k {
-  background-image: url(images/kick.png);
+  background-image: url(https://cdns-images.dzcdn.net/images/cover/0540f5e516021c905e7b27a3c0839dd6/1900x1900-000000-80-0-0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .l {
-  background-image: url(images/snare.png);
+  background-image: url(https://lastfm.freetls.fastly.net/i/u/ar0/545964a28b92473fc7e0dfb7d369d5fc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .set {
@@ -74,7 +85,7 @@ footer {
 .drum {
   outline: none;
   border: 10px solid #404B69;
-  font-size: 5rem;
+  font-size: 2rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
@@ -84,7 +95,7 @@ footer {
   display: inline-block;
   width: 150px;
   height: 150px;
-  text-align: center;
+  text-align: bottom;
   margin: 10px;
   background-color: white;
 }
