@@ -1,6 +1,9 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: url(https://pbs.twimg.com/media/EiYDnaOXkAAPQ1A.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 h1 {
